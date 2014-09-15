@@ -1,4 +1,4 @@
 vmware-view-client.rpm
 ======================
 
-VMware view client
+VMware view client RPM for Fedora
